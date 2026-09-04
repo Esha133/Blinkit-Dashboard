@@ -3,7 +3,7 @@
 ## 📌 Project Overview:-
 This project is an interactive Power BI dashboard built using the Blinkit Grocery Sales dataset. The dashboard provides insights into sales performance, customer preferences, outlet performance, and product categories through interactive visualizations.
 
-## 📊 Dashboard Highlights
+## 📊 Dashboard Highlights:
 - Total Sales
 - Average Sales
 - Average Rating
